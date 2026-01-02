@@ -1,0 +1,6 @@
+streamlit>=1.29
+pandas>=1.5
+numpy>=1.23
+kiteconnect>=4.1
+ta>=0.11.0
+pytz>=2023.3
